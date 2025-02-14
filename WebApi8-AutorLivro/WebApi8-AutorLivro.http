@@ -1,0 +1,6 @@
+@WebApi8_AutorLivro_HostAddress = http://localhost:5151
+
+GET {{WebApi8_AutorLivro_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
